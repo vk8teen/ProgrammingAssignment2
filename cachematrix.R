@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## functions below namely "makeCachematrix" and "cacheSolve" are supposed to create a matrix object and cache the invesrse of the matrix.
+## functions below namely "makeCachematrix" and "cacheSolve" are supposed to create a matrix object
+## and cache the invesrse of the matrix.
 
 ## Write a short comment describing this function
 ## the function "makeCachematrix" will create a matrix object (this matrix is square matrix and hence is invertible)
